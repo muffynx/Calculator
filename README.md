@@ -1,3 +1,4 @@
 # Calculator
 Simple Calculator using Windows Forms Application\
-![calculator1](https://user-images.githubusercontent.com/72650070/208587001-89b6ce7a-8b84-4112-952b-617d28ff0de9.png)
+![cal1](https://user-images.githubusercontent.com/72650070/208587642-6fe77318-60a9-4d3d-b604-74dc5e819377.png)
+
